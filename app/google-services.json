@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527706579531",
+    "project_id": "speech-translator-ccfa2",
+    "storage_bucket": "speech-translator-ccfa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527706579531:android:6a961eb099bfd2a8d1a3ce",
+        "android_client_info": {
+          "package_name": "com.example.speechtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527706579531-mm82ebk82a53qm0fcr2mlju1v9jgu2c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHpSSz6RY2-U9ptJlcm2h0447_pPO_Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527706579531-mm82ebk82a53qm0fcr2mlju1v9jgu2c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

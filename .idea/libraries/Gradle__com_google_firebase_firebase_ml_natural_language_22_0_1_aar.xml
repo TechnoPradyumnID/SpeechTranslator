@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-natural-language:22.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42f5b83389d3ea1e0e76584afed363dc/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/23ebe2bc8ad2361187b9068db8bdfd63/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52a961784d63e0ee59c2e1670f5e0d3c/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cbb490bab6649bd35a8eda8a289f3e24/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/75d22382c2b4698841b7b6f07da150f1/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f33a87702197502ae1a5c39c5b88d080/transformed/firebase-ml-natural-language-22.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f33a87702197502ae1a5c39c5b88d080/transformed/firebase-ml-natural-language-22.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f33a87702197502ae1a5c39c5b88d080/transformed/firebase-ml-natural-language-22.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-natural-language/22.0.1/a6929e79735b34b6dad5b7872d8e35b050d5d1e9/firebase-ml-natural-language-22.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Speech_Translator.iml" filepath="$PROJECT_DIR$/.idea/modules/Speech_Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Speech_Translator.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinmultiplatformsharedmodule/Speech_Translator.kotlinmultiplatformsharedmodule.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinmultiplatformsharedmodule/Speech_Translator.kotlinmultiplatformsharedmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/translateapi/Speech_Translator.translateapi.iml" filepath="$PROJECT_DIR$/.idea/modules/translateapi/Speech_Translator.translateapi.iml" />
+    </modules>
+  </component>
+</project>

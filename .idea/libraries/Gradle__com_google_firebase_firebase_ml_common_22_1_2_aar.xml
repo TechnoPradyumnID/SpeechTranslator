@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-common:22.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/863b8d9d1a28848d67b3b2e301c6ae51/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12558cc2e771d8d0d23ef076b65ec1ba/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5220ce357ad10bd14c85c70f7a2e4f40/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/638d2dd847f6fe4a2a1d138ab580909f/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62719baec57909faf5e94c2403fdb67f/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f89ca9b8f15d2fe8a6ead33035b3a404/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/174fc24fcd8fbddeb2d7814340f680c5/transformed/firebase-ml-common-22.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/778af2b14e4672e7fab14d4febf682c1/transformed/firebase-ml-common-22.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/778af2b14e4672e7fab14d4febf682c1/transformed/firebase-ml-common-22.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/778af2b14e4672e7fab14d4febf682c1/transformed/firebase-ml-common-22.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-common/22.1.2/2c0353f3653df646bea97ab6eb7d0a17c030d970/firebase-ml-common-22.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

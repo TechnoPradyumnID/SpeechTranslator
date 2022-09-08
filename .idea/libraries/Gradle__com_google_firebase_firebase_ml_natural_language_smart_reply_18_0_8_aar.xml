@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-natural-language-smart-reply:18.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c7cc0ede16aa1c5cdb94bfa22df864bc/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/767b8be1eaf141047f3898bd49a79fc4/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e556decd30dcebadafdb9c65fcc61e8/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/02ec028b4fc48ff92431da561aa8752a/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d822a5baf10f3912f0b0b55af1daaa9b/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/698f2b1685b8809c1aea5883871b7585/transformed/firebase-ml-natural-language-smart-reply-18.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/698f2b1685b8809c1aea5883871b7585/transformed/firebase-ml-natural-language-smart-reply-18.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/698f2b1685b8809c1aea5883871b7585/transformed/firebase-ml-natural-language-smart-reply-18.0.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-natural-language-smart-reply/18.0.8/40aab2262d7e8c82c4c314b167089ba97425a1d0/firebase-ml-natural-language-smart-reply-18.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

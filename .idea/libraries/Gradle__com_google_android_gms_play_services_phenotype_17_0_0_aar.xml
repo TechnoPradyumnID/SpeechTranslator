@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-phenotype:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c70b36161e418f9be6c7ab8d652ed139/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/277cb5818df77a0d0ccf780fd60459a0/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c70de280b78b6f5e4c38d78470db6b7/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5af016bd01c300ccbe7163b1e1688b37/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cf722c2d4c21d6a86f24900f6e59050a/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5ad98039becd94bd449362c6d4123d5/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48b6e71e41d7018fd8df086aea9607f4/transformed/play-services-phenotype-17.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4a51f2ed6bb093597378bbcea5ff14e9/transformed/play-services-phenotype-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a51f2ed6bb093597378bbcea5ff14e9/transformed/play-services-phenotype-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a51f2ed6bb093597378bbcea5ff14e9/transformed/play-services-phenotype-17.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
